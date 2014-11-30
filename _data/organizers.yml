@@ -1,10 +1,9 @@
 - 
-  group: "Main organizer"
+  group: "Организатор"
   elements: 
-    - {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}
+    - {name: "GDG Vornezh", description: "GDG Voronezh - некоммерческое сообщество разработчиков, экспериментирующих с технологиями Google", link: "http://www.gdgvrn.org", imageUrl: "GDG_Voronezh.svg"}
 - 
-  group: "Co-organizers"
+  group: "При поддержке"
   elements: 
-    - {name: "GDG Lviv", description: "GDG Kyiv - Open and volunteer geek community", link: "http://kyiv.gdg.org.ua", imageUrl: "gdg-kyiv.svg"}
-    - {name: "GDG Cherkassy", description: "GDG Cherkassy - Open and volunteer geek community", link: "http://cherkassy.gdg.org.ua", imageUrl: "gdg-cherkasy.svg"}
-    - {name: "GDG Dnipropetrovsk", description: "GDG Dnipropetrovsk - Open and volunteer geek community", link: "http://dnipro.gdg.org.ua", imageUrl: "gdg-dnipropetrovsk.svg"}
+    - {name: "DataArt", description: "DataArt (ДатаАрт) — компания, занимающаяся аутсорсингом программного обеспечения, специализирующаяся в области internet-приложений, технологий Internet of Things, корпоративных баз данных и инструментов промышленной автоматизации, включая системы клиент- и контент-менеджмента", link: "http://www.dataart.ru", imageUrl: "dataart.svg"}
+    - {name: "Google", description: "Google", link: "http://developers.google.com", imageUrl: "google.svg"}
