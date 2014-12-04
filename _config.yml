@@ -24,9 +24,9 @@ siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 organizerName: "GDG Voronezh"
 organizerAlternateName: "Google Developer Group Voronezh"
 organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
-organizerEmail: "lviv@gdg.org.ua"
+organizerEmail: "info@gdgvrn.org"
 organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "http://lviv.gdg.org.ua/"
+organizerLink: "http://www.gdgvrn.org/"
 
 # Head
 metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
@@ -36,19 +36,19 @@ socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-c4pUrl: "http://bit.ly/dfua-c4p"
-c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
+# c4pUrl: "http://bit.ly/dfua-c4p"
+# c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 
 
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {permalink: "/blog/", text: "Блог"}
+ - {link: "http://www.gdgvrn.org", text: "Блог"}
  - {permalink: "/schedule/", text: "Расписание"}
- - {permalink: "/speakers/", text: "Спикеры"}
- - {permalink: "/team/", text: "Team"}
- - {permalink: "/logistics/", text: "Logistics"}
- - {permalink: "/hackathon/", text: "Design Sprint"}
+# - {permalink: "/speakers/", text: "Спикеры"}
+# - {permalink: "/team/", text: "Team"}
+ # - {permalink: "/logistics/", text: "Logistics"}
+ # - {permalink: "/hackathon/", text: "Design Sprint"}
 bottomNavigationLinks:
  #- {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
 rightNavigationButtons:
@@ -62,7 +62,7 @@ typeoutTextValues: '"", "Season", "Воронеж", "Омск", "Brussels"'
 typeoutFallback: "Воронеж"
 heroButtons:
  #- {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
- - {permalink: "/#tickets", text: "Регистрация"}
+ - {link: "http://goo.gl/forms/x1VB6mebvq", text: "Регистрация"}
 
 # About Block
 aboutTitle: "О GDG DevFest Воронеж 2014"
@@ -174,24 +174,24 @@ subscribeInfo: "Registration will be open around end of August. Number of ticket
 
 # Footer
 socialLinks:
- - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
- - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
- - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
- - {permalink: "/feed.xml", icon: "rss"}
+ - {link: "https://www.google.com/+GdgvrnOrg", icon: "google-plus"}
+ # - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
+ # - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
+ # - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "http://gdg.org.ua", text: "GDG.org.ua"}
+   - {link: "http://www.gdgomsk.org/", text: "GDG Omsk"}
    - {link: "https://developers.google.com", text: "Google Developers"}
- -
-  title: "Contacts"
-  links:
-   - {link: "mailto:lviv@gdg.org.ua", text: "lviv@gdg.org.ua"}
- -
-  title: "FAQ"
-  links:
-   - {permalink: "/cod/", text: "Code of Conduct"}
+ # -
+ #  title: "Contacts"
+ #  links:
+ #   - {link: "mailto:lviv@gdg.org.ua", text: "lviv@gdg.org.ua"}
+ # -
+ #  title: "FAQ"
+ #  links:
+ #   - {permalink: "/cod/", text: "Code of Conduct"}
 
 # Blog
 blogTitle: "Latest news"
