@@ -17,17 +17,17 @@
     - {
     	startTime: "11:00",
     	endTime: "11:40",
-    	sessionIds: [001]
+    	sessionIds: [003]
     }
     - {
     	startTime: "11:45",
     	endTime: "12:25",
-    	sessionIds: [002]
+    	sessionIds: [001]
     }
     - {
     	startTime: "12:30",
     	endTime: "13:10",
-    	sessionIds: [003]
+    	sessionIds: [002]
     }
     - {
     	startTime: "13:15",
